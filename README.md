@@ -1,2 +1,2 @@
-# 📚 Aprendendo Java desde o básico
+# 📚 Aprendendo Java desde o básico + tecnologias (JFX, Maven, Spring, etc.)
 
