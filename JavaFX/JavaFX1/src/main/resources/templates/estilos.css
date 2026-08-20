@@ -1,0 +1,20 @@
+/* Estilo padrão do botão */
+.button {
+    -fx-background-color: #2196F3; /* Cor de fundo azul */
+    -fx-text-fill: white; /* Cor do texto branco */
+    -fx-font-size: 14px; /* Tamanho da fonte */
+    -fx-font-weight: bold; /* Negrito */
+    -fx-border-radius: 5px; /* Bordas arredondadas */
+    -fx-background-radius: 5px;
+}
+
+/* Efeito ao passar o mouse por cima */
+.button:hover {
+    -fx-background-color: #0d82e4; /* Fundo mais escuro */
+    -fx-cursor: hand; /* Muda o cursor para uma mãozinha */
+}
+
+/* Efeito ao clicar no botão */
+.button:pressed {
+    -fx-background-color: #0b6bb8;
+}
